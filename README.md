@@ -4,7 +4,6 @@
 - add
 - commit
 - push
-- mais um comando legal
 
 ## Comandos úteis
 
